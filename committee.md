@@ -10,8 +10,8 @@ menu: main
 
 ### General chairs
 
-[Helena Jambor](https://helenajambor.wordpress.com/), TU Dresden, Germany  
-[Michael Krone](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/visuelle-big-data-analytik-in-den-lebenswissenschaften/team/jun-prof-dr-michael-krone/), University of Tübingen, Germany
+[Robert Krueger](https://helenajambor.wordpress.com/), New York University (NYU), New York, USA
+[Zeynep Gümüş](https://profiles.icahn.mssm.edu/zeynep-h-gumus),  Icahn School of Medicine at Mount Sinai, USA
 
 ### Website chair
 
